@@ -77,9 +77,3 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Hugokyo&locale=fr&mode=weekly&theme=radical&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/Hugokyo/Hugokyo/output/snake.svg" alt="Snake animation" />
-
-###
