@@ -69,13 +69,13 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="76" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://hugo-bohard.com" target="_blank">
-    <img src="https://svgsilh.com/svg_v2/1873373.svg" width="76" height="40" alt="website"  />
+    <img src="304967.svg" width="76" height="40" alt="website"  />
   </a>
 </div>
 
 ### 
 
 <div>
-  <img width="45%" align="left" src="https://streak-stats.demolab.com?user=Hugokyo&locale=fr&mode=weekly&theme=radical&hide_border=false&border_radius=5&order=3" alt="Hugokyo"/>
-  <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=Hugokyo&" alt="Hugokyo" />
+  <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hugokyo&show_icons=true&locale=fr&layout=compact" alt="Hugokyo" />
+  <img width="50%" align="left" src="https://streak-stats.demolab.com?user=Hugokyo&locale=fr&mode=weekly&theme=radical&hide_border=false&border_radius=5&order=3" alt="Hugokyo"/>
 </div>
