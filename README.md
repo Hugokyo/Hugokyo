@@ -1,12 +1,10 @@
 <h2 align="center">Salut 👋, je m'appelle @hugokyo,<br> Je suis un étudiant chez MyDigitalSchool</h2>
 
 ###
-<div align="center">
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hugo-bohard/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:contact@hugo-bohard.com)
 [![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://pytopia.ai)](https://www.hugo-bohard.com/)
 [![Github](https://img.shields.io/github/followers/hejazizo?label=Follow&style=social)](https://github.com/HugoKyo)
-</div>
 ###
 
 <h3 align="center">Je connais...</h3>
@@ -78,5 +76,5 @@
 
 <div align="center">
   <!-- <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hugokyo&show_icons=true&locale=fr&layout=compact" alt="Hugokyo" /> -->
-  <img width="50%" align="left" src="https://streak-stats.demolab.com?user=Hugokyo&locale=fr&mode=weekly&theme=radical&hide_border=false&border_radius=5&order=3" alt="Hugokyo"/>
+  <img width="50%" src="https://streak-stats.demolab.com?user=Hugokyo&locale=fr&mode=weekly&theme=radical&hide_border=false&border_radius=5&order=3" alt="Hugokyo"/>
 </div>
