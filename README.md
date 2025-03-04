@@ -44,8 +44,6 @@
   <img width="36" />
   <img src="https://cdn.simpleicons.org/adobeillustrator/FF9A00" height="40" alt="adobeillustrator logo"  />
   <img width="36" />
-  <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" height="40" alt="adobephotoshop logo"  />
-  <img width="36" />
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
   <img width="36" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
